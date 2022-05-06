@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola Mundo ༼ つ ◕_◕ ༽つ🌎
 
-<!--
-**McLoviing/McLoviing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ey!!! *soy estudidanete de ingenieria en computacion en la* ***univercidad Nacional de Rio Negro***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo 19 años 
+
+```phyton 
+tengo algun conocimiento sobre phyton
+```
+estos son mis juegos instalados, orgulloso de aprovechar bien las ofertas 
+![Captura de pantalla 2022-05-06 002532](https://user-images.githubusercontent.com/34177834/167062094-8eb62025-9cd0-490e-9ad4-2abe5904b456.png)
+
+pero... no tan orgulloso de...
+
+![Captura de pantalla 2022-05-06 002557](https://user-images.githubusercontent.com/34177834/167062344-242536c4-da90-4a5c-ba77-df8fbddfe053.png)
+
