@@ -22,6 +22,10 @@ pero... no tan orgulloso de...
 
 ![Captura de pantalla 2022-05-06 002557](https://user-images.githubusercontent.com/34177834/167062344-242536c4-da90-4a5c-ba77-df8fbddfe053.png)
 
+~~main Yuumi stuck en oro~~ [tal vez solo un poco](https://www.youtube.com/watch?v=YQjDg1nNltU) 
+
+
+
 (***┬┬﹏┬┬***) (***┬┬﹏┬┬***) (***┬┬﹏┬┬***) (***┬┬﹏┬┬***)
  
 **SUFI NO? QUE ONDA CON ESTO** 
