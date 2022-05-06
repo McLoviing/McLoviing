@@ -1,7 +1,7 @@
 # Hola Mundo ༼ つ ◕_◕ ༽つ🌎
 
 
-Ey!!! *soy estudidanete de ingenieria en computacion en la* ***univercidad Nacional de Rio Negro***
+Ey!!! *soy estudiante de ingenieria en computacion en la* **univercidad Nacional de Rio Negro**
 
 *Tengo ***19*** años* 
 
