@@ -9,7 +9,7 @@ Ey!!! *soy estudiante de ingenieria en computacion en la* **univercidad Nacional
 
 <details> 
   <summary> TOCA </summary>
-   NAAAAAAAAA RE COMPLICADO EL PARCIAL PA CUANDO EL RECUPERATORIO AAAAAAAAAAAAAAAA
+   NAAAAAAAAA RE COMPLICADO EL PARCIAL, PA CUANDO EL RECUPERATORIO AAAAAAAAAAAAAAAA
 </details>
 
 ```phyton 
